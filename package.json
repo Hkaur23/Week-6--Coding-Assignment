@@ -1,0 +1,16 @@
+{
+  "name": "card-game",
+  "version": "1.0.0",
+  "description": "This is classic card game ",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Harman Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "express": "^4.18.2",
+    "mocha": "^10.1.0"
+  }
+}
